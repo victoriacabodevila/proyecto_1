@@ -11,5 +11,4 @@ En este proyecto, el desafío fue indagar qué datos podrían ayudar a abordar e
 
 **Keywords**: Análisis Exploratorio de Datos (EDA), Folium, kNN Regressor, Decision Tree Regressor
 
-![image.png](attachment:image.png)
 
